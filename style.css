@@ -1,0 +1,71 @@
+.quiz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 10px solid #000; 
+    padding: 10px;
+}
+.btn{
+    display : flex ;
+    justify-content: center;
+}
+.one{
+    background-color: lightslategray;
+    border-radius: 10px;
+}
+.two{
+    background-color: lightcyan;
+    border-radius: 10px;
+}
+.three{
+    background-color: lightpink;
+    border-radius: 10px;
+}
+.four{
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+}
+#btn{
+    border-radius: 10px;
+    background-color: burlywood;
+    font-size: 15px;
+    font-family: 'Alata' , sans-serif;
+}
+li{
+    font-family: 'Salsa' , cursive;
+}
+h1{
+    text-align: center;
+    font-family: 'Titan one' , cursive;
+    text-decoration :underline ;  
+}
+.result{
+    display: flex;
+    justify-content: center;
+    border: 10px solid #000; 
+    padding: 10px;
+}
+button{
+    text-align: center;
+}
+.angry{
+
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIln8zn0QnYAqfEIkzGB6eMxXWjIrnRcSDg&usqp=CAU');
+    height: 200px;
+    width: 400px;
+}
+.happy{
+    background-image: url('https://icdn.caughtoffside.com/wp-content/uploads/2021/05/Video-Lionel-Messi-old-comedy-sketch-for-Argentine-TV-414x259.jpg') ;
+    height : 200px;
+    width : 400px ;
+}
+#error{
+    border-radius: 10px;
+    background-color: gold;
+    display : block ;
+    margin : 0 auto ;
+}
+.finally{
+    text-align: center;
+}
